@@ -1,0 +1,6 @@
+domains_isp.etag
+*.tmp
+*.part
+*.processed
+sunat-trustpositif.sh
+domaintoclean.sh
