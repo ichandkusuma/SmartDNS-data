@@ -1,6 +1,7 @@
-domains_isp.etag
-*.tmp
-*.part
-*.processed
-sunat-trustpositif.sh
-domaintoclean.sh
+# Abaikan semua file dan folder di root
+/*
+
+# Izinkan hanya file berikut
+!.gitignore
+!domains_isp
+!README.md
