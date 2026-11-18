@@ -13,5 +13,5 @@ The dataset is processed from TrustPositif sources and validated against officia
 **Direct download:**
 
 ```text
-https://raw.githubusercontent.com/ichandkusuma/SmartDNS-data/main/domains_isp
+https://raw.githubusercontent.com/ichandkusuma/SmartDNS-data/main/domains_isp.gz
 
